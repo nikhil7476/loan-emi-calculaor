@@ -11,7 +11,7 @@ This is a simple Loan EMI (Equated Monthly Installment) Calculator that allows u
 
 ## Live Demo
 
-You can view the live demo [here](https://loan-emi-calculaor.vercel.app/).
+You can view the live demo of the Loan EMI Calculator [here](https://loan-emi-calculaor.vercel.app/).
 
 ## Installation
 
@@ -25,7 +25,7 @@ To use the Loan EMI Calculator, you can either run it locally or use the provide
    
 2. Open the index.html file in your web browser.
 
-## Online Use
+### Online Use
 
 You can also use the tool directly in a web browser by visiting the provided live demo link.
 
