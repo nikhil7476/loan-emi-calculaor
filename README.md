@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Loan EMI Calculator
 
 This is a simple Loan EMI (Equated Monthly Installment) Calculator that allows users to calculate their monthly loan payment based on the loan amount, annual interest rate, and loan tenure. The application also provides a graphical representation of principal and interest payments over the loan's tenure using a line chart.
@@ -59,7 +61,7 @@ Feel free to fork the repository and submit pull requests for any improvements o
 6. Create a new Pull Request.
 
 ## License
-This project is open-source and available under the ![MIT License](https://img.shields.io/badge/license-MIT-green)
+This project is open-source and available under the MIT License.
 
 ## Acknowledgements
 - **[Chart.js](https://www.chartjs.org/)** for the line chart functionality.
