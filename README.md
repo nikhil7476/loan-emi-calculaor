@@ -61,7 +61,7 @@ Feel free to fork the repository and submit pull requests for any improvements o
 6. Create a new Pull Request.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](https://github.com/nikhil7476/loan-emi-calculaor/tree/main?tab=MIT-1-ov-file#).
 
 ## Acknowledgements
 - **[Chart.js](https://www.chartjs.org/)** for the line chart functionality.
