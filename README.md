@@ -59,7 +59,7 @@ Feel free to fork the repository and submit pull requests for any improvements o
 6. Create a new Pull Request.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 ## Acknowledgements
 - **[Chart.js](https://www.chartjs.org/)** for the line chart functionality.
