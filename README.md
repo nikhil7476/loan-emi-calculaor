@@ -29,7 +29,7 @@ To use the Loan EMI Calculator, you can either run it locally or use the provide
 
 You can also use the tool directly in a web browser by visiting the provided live demo link.
 
-### Usage
+## Usage
 
 1. Enter the loan amount (₹).
 2. Enter the annual interest rate (%).
