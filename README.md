@@ -41,10 +41,10 @@ You can also use the tool directly in a web browser by visiting the provided liv
 
 ## Technologies Used
 
-**HTML:** For the basic structure of the page.
-**CSS:** For styling and layout.
-**JavaScript:** For the EMI calculation logic, payment schedule generation, and charting.
-**Chart.js:** For rendering the line chart displaying the principal and interest payments.
+- **HTML:** For the basic structure of the page.
+- **CSS:** For styling and layout.
+- **JavaScript:** For the EMI calculation logic, payment schedule generation, and charting.
+- **Chart.js:** For rendering the line chart displaying the principal and interest payments.
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for any improvements or features you'd like to add.
