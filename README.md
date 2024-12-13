@@ -8,3 +8,7 @@ This is a simple Loan EMI (Equated Monthly Installment) Calculator that allows u
 - **Payment Schedule**: Displays a detailed payment schedule, showing the breakdown of each month's principal, interest, and balance.
 - **Graphical Representation**: A line chart visualizes the principal and interest payments over the entire loan period.
 - **Printable Report**: Option to print the EMI calculation details and payment schedule.
+
+## Live Demo
+
+You can view the live demo [here](https://loan-emi-calculaor.vercel.app/).
