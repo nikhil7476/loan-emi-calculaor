@@ -1,0 +1,130 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .mainHd,
+    .printHd {
+      text-align: center;
+    }
+
+    .printHd {
+      display: none;
+    }
+
+    label {
+      display: block;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+    button {
+      margin-top: 15px;
+      padding: 12px 20px;
+      width: 100%;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    .details {
+      background: #f9f9f9;
+      padding: 15px;
+      margin-top: 20px;
+      border-radius: 6px;
+      border: 1px solid #ddd;
+    }
+
+	.loanDt {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    canvas {
+      margin-top: 20px;
+      width: 100%;
+    }
+
+    table {
+      width: 100%;
+      margin-top: 20px;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #007bff;
+      color: white;
+    }
+
+    td {
+      background: #f9f9f9;
+    }
+
+    @media (max-width: 768px) {
+      .container {
+        padding: 15px;
+        border: none;
+        box-shadow: none;
+      }
+
+      input,
+      button {
+        font-size: 14px;
+      }
+    }
+
+    @media print {
+      body {
+        font-size: 14px;
+      }
+
+      button,
+      label,
+      input,
+      .mainHd {
+        display: none;
+      }
+
+      .printHd {
+        display: block;
+      }
+
+      canvas {
+        max-width: 100%;
+      }
+    }
