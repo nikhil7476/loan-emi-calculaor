@@ -6,9 +6,9 @@ This is a simple Loan EMI (Equated Monthly Installment) Calculator that allows u
 
 ## Screenshots
 
-![EMI_Calculator-1200x630px](https://github.com/nikhil7476/whatsapp-text-sender/blob/main/EMI_Calculator.png)
+![EMI_Calculator-1200x630px](https://github.com/nikhil7476/loan-emi-calculaor/blob/main/EMI_Calculator.png)
 
-![loan-emi-calculaor-vercel-app](https://github.com/nikhil7476/whatsapp-text-sender/blob/main/loan-emi-calculaor-vercel-app)
+![loan-emi-calculaor-vercel-app](https://github.com/nikhil7476/loan-emi-calculaor/blob/main/loan-emi-calculaor-vercel-app)
 
 ## Features
 
