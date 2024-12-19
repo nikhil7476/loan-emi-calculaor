@@ -4,11 +4,7 @@
 
 This is a simple Loan EMI (Equated Monthly Installment) Calculator that allows users to calculate their monthly loan payment based on the loan amount, annual interest rate, and loan tenure. The application also provides a graphical representation of principal and interest payments over the loan's tenure using a line chart.
 
-## Screenshots
-
 ![EMI_Calculator-1200x630px](https://github.com/nikhil7476/loan-emi-calculaor/blob/main/EMI_Calculator.png)
-
-![EMI_Calculator-1200x630px](https://github.com/nikhil7476/loan-emi-calculaor/blob/main/loan-emi-calculaor-vercel-app)
 
 ## Features
 
